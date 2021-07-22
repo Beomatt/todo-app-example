@@ -4,8 +4,6 @@ To get started, [fork](https://docs.github.com/en/github/getting-started-with-gi
 
 Add a new remote pointing to your fork, and push your changes to this remote.
 
-Fork push test
-
 When you're done, submit the link to your fork.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joshleblanc/todo-app-example)
