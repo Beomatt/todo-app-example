@@ -6,6 +6,7 @@ export const CreateTodo = ({ onCreate }) => {
 
     const handleChange = React.useCallback(e => {
         setText(e.target.value);
+        
     }, []);
 
     const handleCreate = React.useCallback(e => {
